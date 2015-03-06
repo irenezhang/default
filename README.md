@@ -138,11 +138,10 @@ You can now use the Paste development server to serve CKAN from the command-line
 
 Open `http://127.0.0.1:5000/` in a web browser, and you should see the CKAN front page.
 
-It's Okay! next,  to synchronous production deployment
-------------------------------------------------------
+Now you're successfully installed the CKAN environment. Next step is to synchronize the production code
 
 Download Civicdata Code from github
-===================================
+===============
 
 ###1. git clone
 >`cd /usr/lib/ckan/`<br>
